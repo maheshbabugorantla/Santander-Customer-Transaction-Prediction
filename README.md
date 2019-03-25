@@ -6,6 +6,7 @@
     - [**Submission File**](#submission-file)
   - [**Data Description**](#data-description)
     - [**How to download the Data**](#how-to-download-the-data)
+  - [**Setup Python Environment**](#setup-python-environment)
   - [**Run all the cells in Jupyter Notebook**](#run-all-the-cells-in-jupyter-notebook)
 
 <a name='description'></a>
@@ -78,6 +79,18 @@ test.csv
 
 train:
 train.csv
+```
+
+<a name='setup-python-environment'></a>
+
+## **Setup Python Environment**
+
+```python
+TODO: Change the environment.yml to reflect only the conda/pip packages used in this notebook
+```
+
+```shell
+$ conda env create -f environment.yml
 ```
 
 <a name='run-all-the-cells-in-jupyter-notebook'></a>
