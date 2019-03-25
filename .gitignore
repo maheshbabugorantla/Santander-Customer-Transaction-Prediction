@@ -1,0 +1,6 @@
+
+# Ignore IPython Notebook CheckPoints
+.ipynb_checkpoints/
+
+# Ignore dataset folder
+data/
